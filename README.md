@@ -1,1 +1,2 @@
-“R-Peak Detection in Electrocardiogram Signals using Convolutional Neural Networks”.
+Detection of R-Peak in Electrocardiogram Signals using Convolutional Neural Networks.
+FrameWork used - KERAS
