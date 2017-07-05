@@ -1,1 +1,1 @@
-# R-Peak-Detector-using-CNN-s
+“R-Peak Detection in Electrocardiogram Signals using Convolutional Neural Networks”.
